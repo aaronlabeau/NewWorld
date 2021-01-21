@@ -1,5 +1,10 @@
 # Locations
 
+## Echor Orod Plual Ered (Colorado)  
+
+- Ae Ville (Maroon Bells)
+- Grey Nogaak (Denver)
+
 ## Vad Aroiga (Georgia)
 
 - Ship's Haven (Savannah): Port city on East Coast
@@ -23,6 +28,10 @@
 
 - Orc
 
+## úgerth (Las Vegas)
+
+- Newly discovered area with rumored arcana artifacts found in desert.  A stopping oint between Puig Gwilith(California) and Grey Nogaak (Denver, CO).
+
 ## Tyon Desert (New Mexico)
 
 - Barabarins live here roaming nomads
@@ -34,7 +43,7 @@
 ## Echor (New York)
 
 - Grand Echor Shore (Queens, etc)
-- Grand Island (Manhattan): largest city in America 
+- Grand Island (Manhattan): largest city in America
 
 ## Dór -o taur (Washington)
 
