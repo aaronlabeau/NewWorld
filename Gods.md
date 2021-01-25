@@ -2,10 +2,10 @@
 
 ## Zeus
 
-Description:  God of the sky, ruler of the gods.   Father to all.	
-Alignment:  N	
-Domain:  Tempest	
-Symbol:  Fist full of lightning bolts
+* **Description**:  God of the sky, ruler of the gods.   Father to all.	
+* **Alignment**:  N	
+* **Domain**:  Tempest	
+* **Symbol**:  Fist full of lightning bolts
 
 ## Aphrodite
 
