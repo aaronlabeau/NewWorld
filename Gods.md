@@ -33,7 +33,7 @@
 * **Description**:  God of intrigue	
 * **Alignment**:  CN	
 * **Domain**:  Trickery	
-* **Symbol**:  Blacj cloak
+* **Symbol**:  Black cloak
 
 ## Paltar
 
