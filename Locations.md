@@ -2,7 +2,7 @@
 
 ## Echor Orod Plual Ered (Colorado)  
 
-- Ae Ville (Maroon Bells)
+- Ae Ville (Maroon Bells): small village in wilderness/marshes
 - Grey Nogaak (Denver)
 
 ## Vad Aroiga (Georgia)
@@ -26,7 +26,7 @@
 
 ## Nodog ash Gour (Missouri)
 
-- Orc
+- Land owned by various Orc tribes.  Most races non-Orc try to go around this area rather than deal with the tribe(s).
 
 ## úgerth (Las Vegas)
 
