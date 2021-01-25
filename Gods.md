@@ -7,13 +7,6 @@
 * **Domain**:  Tempest	
 * **Symbol**:  Fist full of lightning bolts
 
-## Aphrodite
-
-* **Description**:  Goddess of love, beauty, and light
-* **Alignment**:  CG	
-* **Domain**:  Light	
-* **Symbol**:  Sea shell
-
 ## Ares
 
 * **Description**:  God of war and strife	
@@ -35,19 +28,19 @@
 * **Domain**:  Death	
 * **Symbol**:  Black raven
 
-## Hera
+## Mxyzpixel
 
-* **Description**:  Goddess of marriage and intrigue	
+* **Description**:  God of intrigue	
 * **Alignment**:  CN	
 * **Domain**:  Trickery	
 * **Symbol**:  Fan of peacock feathers
 
-## Hestia
+## Paltar
 
-* **Description**:  Goddess of home, family, and life	
-* **Alignment**:  NG	
-* **Domain**:  Life	
-* **Symbol**:  Hearth
+* **Description**:  God of love and light
+* **Alignment**:  CG	
+* **Domain**:  Light	
+* **Symbol**:  Star
 
 ## Silvanus
 
@@ -55,3 +48,10 @@
 * **Alignment**:  CN	
 * **Domain**:  Nature	
 * **Symbol**:  black panther
+
+## Thymisis
+
+* **Description**:  Goddess of home, family, and life	
+* **Alignment**:  NG	
+* **Domain**:  Life	
+* **Symbol**:  Hearth
