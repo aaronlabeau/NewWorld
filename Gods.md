@@ -33,7 +33,7 @@
 * **Description**:  God of intrigue	
 * **Alignment**:  CN	
 * **Domain**:  Trickery	
-* **Symbol**:  Fan of peacock feathers
+* **Symbol**:  Blacj cloak
 
 ## Paltar
 
