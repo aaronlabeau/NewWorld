@@ -1,4 +1,4 @@
-# Gods
+# New Gods
 
 ## Tharnaus
 
