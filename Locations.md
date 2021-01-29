@@ -9,6 +9,8 @@
 **Races**:  Humans, Halfings.  
 
 **Population**:  < 100
+**Mayor**:  Raggnar Redtooth
+**Villagers**:  Gundalin Cartwright, Chandra Stol, Wallace Cartwright, Elspeth Redtooth, Sylas, Thornacious, Blassios, 
 
 ### Grey Nogaak (Denver)
 
