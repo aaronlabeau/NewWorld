@@ -5,14 +5,14 @@
 * **Description**:  God of the sky, ruler of the gods.   Father to all.	
 * **Alignment**:  N	
 * **Domain**:  Tempest	
-* **Symbol**:  Fist full of lightning bolts
+* **Symbol**:  Lighting bolt with Hammer and Clouds
 
 ## Tor
 
 * **Description**:  God of war and strife	
 * **Alignment**: CE	
 * **Domain**:  War	
-* **Symbol**:  Spear
+* **Symbol**:  Sword
 
 ## Athenia
 
@@ -47,7 +47,7 @@
 * **Description**:  God of nature	
 * **Alignment**:  CN	
 * **Domain**:  Nature	
-* **Symbol**:  black panther
+* **Symbol**:  Black Panther
 
 ## Thymisis
 
