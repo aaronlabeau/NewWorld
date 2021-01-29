@@ -33,6 +33,10 @@ The Fire Giants are rumored to have a great fortress in the mountains in the sou
 
 The Cloud Giants fled the lands after the great war and it's rumored that they fled via the great sea of the west.
 
+### Storm Giants
+
+Much is not known about them other than they are the most powerful of the giants and in accient times had a palace called Atlantis that scholars state is located somewhere in the waters south of Vad Aroiga.
+
 
 ## Great Silence
 
