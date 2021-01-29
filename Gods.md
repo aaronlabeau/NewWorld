@@ -1,27 +1,27 @@
 # Gods
 
-## Zeus
+## Tharnaus
 
 * **Description**:  God of the sky, ruler of the gods.   Father to all.	
 * **Alignment**:  N	
 * **Domain**:  Tempest	
 * **Symbol**:  Fist full of lightning bolts
 
-## Ares
+## Tor
 
 * **Description**:  God of war and strife	
 * **Alignment**: CE	
 * **Domain**:  War	
 * **Symbol**:  Spear
 
-## Athena
+## Athenia
 
 * **Description**:  Goddess of wisdom and civilization	
 * **Alignment**:  LG	
 * **Domain**:  Knowledge
 * **Symbol**:  Owl
 
-## Hades
+## Hadies
 
 * **Description**:  God of the death and the underworld	
 * **Alignment**:  LE	
