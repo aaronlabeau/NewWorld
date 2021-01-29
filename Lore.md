@@ -6,7 +6,7 @@ The date is 380 AT (After Titans).  Much records of time were lost and very litt
 
 ## Dragons
 
-The dragons of the world didn't fair well and there numbers before the war were over 20,000.  While no one knows how many are left, the Elves of Puig Gwilith whom track the modern history of the lands estimate less than 1,000 are left.  The known Dragons in the lands have been spotted around:
+The dragons of the world didn't fair well and there numbers before the war were over 20,000.  While no one knows how many are left, but the Elves of Puig Gwilith whom track the modern history of the lands estimate there numbers are less than 1,000.  The known Dragons in the lands have been spotted around:
 
 - Dragon Tooth Mountain Peak (Blue Dragons)
 - Tyon Desert (Red Dragons)
