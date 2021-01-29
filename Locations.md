@@ -9,7 +9,7 @@
 - **Population**:  < 100
 - **Mayor**:  Raggnar Redtooth
 - **Villagers**:  Gundalin Cartwright, Chandra Stol, Wallace Cartwright, Elspeth Redtooth, Sylas, Thornacious, Blassios, 
-- **Map**:  [Village](images/Ae Ville.jpg)
+- **Map**:  ![Village](images/Ae Ville.jpg)
 
 ### Grey Nogaak (Denver)
 
