@@ -5,20 +5,20 @@
 ### Ae Ville (Maroon Bells): small village in wilderness/marshes
 
 - **Description**:  Mostly farms and trader shops for people traveling the roads between the old lands and Puig Gwilith.  
-
 - **Races**:  Humans, Halfings.  
-
 - **Population**:  < 100
 - **Mayor**:  Raggnar Redtooth
 - **Villagers**:  Gundalin Cartwright, Chandra Stol, Wallace Cartwright, Elspeth Redtooth, Sylas, Thornacious, Blassios, 
 
 ### Grey Nogaak (Denver)
 
-**Description**:  Large city ruled by the Tabaxi lords.  Since the great war they have opened the city to other races and now many other races call this there home.
-
-**Races**:  Humans, Half-Elves, Gnomes, Halfings, Orc, and Tabaxi.  
-
-**Population**:  < 10,000
+- **Description**:  Large city ruled by the Tabaxi lords.  Since the great war they have opened the city to other races and now many other races call this there home.
+- **Races**:  Humans, Half-Elves, Gnomes, Halfings, Orc, and Tabaxi.  
+- **Population**:  < 10,000
+- **Clan**: Whispers of Wind (Running Water, Birdsong, Cloud that Walks, River Mist)
+- **Villagers**:  
+- **Shops**: 
+- **Known Landmarks**: 
 
 ## Vad Aroiga (Georgia)
 
