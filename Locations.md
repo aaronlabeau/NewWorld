@@ -4,13 +4,13 @@
 
 ### Ae Ville (Maroon Bells): small village in wilderness/marshes
 
-**Description**:  Mostly farms and trader shops for people traveling the roads between the old lands and Puig Gwilith.  
+- **Description**:  Mostly farms and trader shops for people traveling the roads between the old lands and Puig Gwilith.  
 
-**Races**:  Humans, Halfings.  
+- **Races**:  Humans, Halfings.  
 
-**Population**:  < 100
-**Mayor**:  Raggnar Redtooth
-**Villagers**:  Gundalin Cartwright, Chandra Stol, Wallace Cartwright, Elspeth Redtooth, Sylas, Thornacious, Blassios, 
+- **Population**:  < 100
+- **Mayor**:  Raggnar Redtooth
+- **Villagers**:  Gundalin Cartwright, Chandra Stol, Wallace Cartwright, Elspeth Redtooth, Sylas, Thornacious, Blassios, 
 
 ### Grey Nogaak (Denver)
 
