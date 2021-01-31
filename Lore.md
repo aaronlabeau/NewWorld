@@ -13,7 +13,7 @@ The dragons of the world didn't fair well and there numbers before the war were 
 - Frozen Lands (Blue/White Dragons)
 - Grazien Mountains south of Echor (Green Dragon)
 
-It is rumored that the lands to the south are were most of the dragons make home with rumors of large beasts in jungles called Dinosaurs that they feed off of.   
+It is rumored that the lands to the south are were most of the dragons make home with rumors of large beasts in jungles called Dinosaurs that they feed off of .  
 
 ## Giants
 
@@ -37,11 +37,12 @@ The Cloud Giants fled the lands after the great war and it's rumored that they f
 
 Much is not known about them other than they are the most powerful of the giants and in accient times had a palace called Atlantis that scholars state is located somewhere in the waters south of Vad Aroiga.
 
-
 ## Great Silence
 
-The people that survived the war started the great silence by banning worship of the Titans and the new gods, thus anyone worshiping gods must do this in private/in secrete in non-elvish cities.  The two major lands of the elves were greatly damanged from barbarians and giant attacks and much of there great libraries were lost. 
+The people that survived the war started the great silence by banning worship of the Titans and the new gods, thus anyone worshiping gods must do this in private/in secrete in non-elvish cities.  The two major lands of the elves were greatly damanged from barbarians and giant attacks and much of there great libraries were lost.
 
 ## Current
+
 In the almost 400 years following the war, the world population is starting to recover, relationships between the races are starting to mend, and cities are starting to pop-up around the lands.  Routes between cities are still very dangerous and most traveling caravans require adventures or hired mercenaries to protect them from the new evil monsters and forces that stock the lands.  
 
+A blight that causes the ground to no longer grow vegitation started a year ago in the Dakota's and is spreading south.  The land that was once lush is now black dirt.  Many have tried various means to heal the land, but this all efforts have failed.  Thousands of barbarians and golaith have died and the cities in the midwest now grow concerned as the blight slowly encloses.
