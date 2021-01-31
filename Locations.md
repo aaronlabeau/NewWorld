@@ -6,15 +6,17 @@
 
 #### Grand Echor Shore (New York, New York)
 
-- **Description**:
-- **Races**:
-- **Population**:
+- **Description**:  Grand Echor Shore is the sprawling city overlooking the Grand Island was also referred to as Calimport before the Titan War.  The metropolis is a huge place, measuring almost six miles from east to west and three miles from the coastline to the northern border.  
+- **Races**:  Human, halflings, half-orc, half-elves, gnomes, dragonborn, tabaxi, kenku, tiefling (less than 1%), dwarves (less than 1%)
+- **Imports**: Grains, fruit, vegetables, wine, ore, gems, lumber, fish
+- **Exports**:  magical items, exotic spices, silk, horses
+- **Population**: over 2,000,000
 
 #### Grand Island (Manhattan)
 
-- **Description**:
-- **Races**:
-- **Population**:
+- **Description**:  Island city is home to the rulers and weathy shop owners of Grand Echor Shore.  Access to the Island is limited and a large wall keeps the Island protected.
+- **Races**:  the rich
+- **Population**:  Unknown (rumored to be between 500 and 1,000)
 
 #### Neverwinter
 
@@ -54,8 +56,9 @@
 
 #### Detoxit (Detroit)
 
-- **Description**:  Slums human town filled by corruption
+- **Description**:  Slums human town filled by corruption and run by the Zhentarim.  Several new crime lords now make there home in this city and there is a constant struggle for power.
 - **Races**:  All known civilizated races.
+- **Exports**:  lumber, ore, minerals, jewerly, gems, and leather
 - **Population**: < 80,000
 
 #### Frozen Donnar Mugdor (Houghton, Hancock, Calumet)
@@ -66,39 +69,46 @@
 
 #### Frozen Port (Saute Ste Marie)
 
-- **Description**:  Small traders port
-- **Races**:
+- **Description**:  Small traders port - most materials from this port come from the Frozen Donnar Mudgor mines to the west.
+- **Races**: Human, dwarves
+- **Imports**:  Foodstuffs, cloth, liquor
+- **Exports**:  Fish, ore, lumber, and gems
 - **Population**: 500
 
 #### Mullmaster
 
-- **Description**:  
-- **Races**:
-- **Population**:
+- **Description**: Mullmaster is a city located in the rugged mid-western area of the New World.  After years of opposition, the city finally joined the Zhentarim, becoming a decadent sprawl riddled with crime and corruption.  The buildings nearest the docks were the most dilapidated and dangerousk, full of poverty and rife with crime.  The rich area of the city resides further up, imposing over the rest of Mullmaster.  A person from Mullmaster is known as a Mullmasterite.
+- **Races**: Humans, halfings, gnome, dwarves, tabaxi
+- **Imports**:  Foodstufs, cloth, liquor, luxury items
+- **Exports**:  Arms, armor, ships, jewerly
+- **Population**: 46,369
 
 #### Zhentil Keep
 
-- **Description**:  
-- **Races**:
-- **Population**:
+- **Description**: Zhential Keep was the most powerful city in the Midwest region as well as the main base of operations for the Zhentarim.  Zhential Keep was destroyed during the Titan War and now the former city is just rubble and rumored to be cursed. 
+- **Races**:  Unknown
+- **Population**:  Unknown
 
-#### Phan
+#### Phlan
 
-- **Description**:  
-- **Races**:
-- **Population**:
+- **Description**:  Phlan is a large town located in the midwest.   Founded over 400 years ago, a series of destruction and rebuilding after the Titan Ware led to the city being walled of into a destroyed, ruined Old Phlan and a rebuilt, shining civilized Phlan.
+- **Races**:  Human
+- **Imports**:  Unknown
+- **Imports**:  Unknown
+- **Population**: 20,000
 
 #### Elmwood
 
-- **Description**:  
-- **Races**:
-- **Population**:
+- **Description**: Elmwood is a small farming community.
+- **Races**:  Dwarves, half-elves, humans
+- **Exports**:  Fish, woodcarvings
+- **Population**: 500
 
 #### Yulash
 
-- **Description**:  
-- **Races**:
-- **Population**:
+- **Description**: Yulash was a fortress town destroyed during the Titan War.
+- **Races**:  Unknown
+- **Population**:  Unknown
 
 ### Dakota (North/South Dakota)
 
@@ -106,15 +116,17 @@
 
 #### Myth Drannor
 
-- **Description**:  
-- **Races**:
-- **Population**:
+- **Description**: Myth Drannor formely known as the city of Cormanthor, the City of Song, or the City of Love among other names was the form capital of city Cormanthyr.  It was considered by man to be the pinnacle of shared knowledge, culture, and civilization in the New Worldf, as well as a beacon of serenity and solidarity in the chaotic Realms.  The city fell to ruins in the aftermath battles of the War of Titans.
+- **Races**:  Elves, humans, halfings, gnomes, gold dragons
+- **Population**:  Unknown
 
 #### Hillsfar
 
-- **Description**:  
-- **Races**:
-- **Population**:
+- **Description**:  Hillsfar is a powerful city-state on the road between the West Coast and the Midwest.  The city is heavily involved in trade in the region, acting as a hub for cities and towns.  A person from Hillsfar is known as a Hillfarian.
+- **Races**: Humans, orc, half orc, gnome, halflings, dragonborn, tabaxi.
+- **Imports**:  Raw ores, uncut gems, untreated furs, grain
+- **Exports**:  Fine cloth, faceted gems, fine furs, dragon's breath liquor, trade goods
+- **Population**: 39, 976
 
 ### Kez Kor Googa (Nebraska)
 
@@ -124,7 +136,9 @@
 
 - Land owned by various Orc tribes.  Most races non-Orc try to go around this area rather than deal with the tribe(s).
 
-### Vad Aroiga (The South)
+## Vad Aroiga (The South)
+
+### General Towns and Cities 
 
 #### Ship's Haven (Savannah)
 
@@ -138,17 +152,21 @@
 - **Races**:  All known civilizated races.
 - **Population**: < 20,000
 
-#### Ylraphon
+#### Triel
 
-- **Description**:
-- **Races**:  
-- **Population**:
+- **Description**:  Triel is a small village in the Fields of the Dead located just north of the Marsh of Chelimber.  The ruines are regularly raided by Lizardfolk from the marsh and most travelers try to travel around the ruins on the route to Yartar or Vad Nogaak Meth.
+- **Races**:   Unknown
+- **Population**:  Unknown
 
 #### Kara-Tur
 
 - **Description**: Original home of the Kenku race of creatures.  During the Titan War the Kenku did not side with the Titans and were cursed never to have there own voice and to never fly again.  There city was destroyed and most stay away from the ruins, afraid the land to be cursed.
 - **Races**: Kenku
 - **Population**: unknown
+
+### Marsh of the Chelimber
+
+- **Description**:  The Marsh of the Chelimber is the home to numerous lizardfolk, bullywugs, and sivs.  The Marsh used to be the home of an entire human kingdom.  When the kingdom was drowned during the Titan War, its people became undead soldiers.  Lizardfolk began to inhabit the marshlands and became the masters of the undead.  The various temples winthin the marsh house minotaurs, allies of the lizardfolk who guarded the pathway to the Betrayer with the aide of bulettes.
 
 ## Central/Mountain Region
 
