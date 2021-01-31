@@ -18,27 +18,35 @@
 
 #### Neverwinter
 
-- **Description**:
-- **Races**:
-- **Population**:
+- **Description**: Neverwinter, also known as the City of the Skilled Hand and the Jewel of t he North, is a multi-racial city-state sitting on the northeastern coast of the New World.  Neverwinter is reguarded as the most cosmopolitan and the most civilized city in all of the New World. 
+- **Races**: Half-elves, humans, dwarves, dragonborn, tiefling, orcs, half-orcs 
+- **Imports**: Crafters, mercenaries
+- **Exports**: Crafts, fish, logging, magical innovations
+- **Population**: 17,000
 
 #### Waterdeep
 
-- **Description**:
-- **Races**:
-- **Population**:
+- **Description**: Waterdeep, also known as the City of Splendors or the Crown of the North, is the most important and influential city in the North.  The road to Waterdeep is well paved and well patrolled.  The city is a hub of trading from the mineral-rich lands to the north west, the merchant kingdoms of Vad Nogaak Meth to the south, and the kingdoms of the Old World to the east.  
+- **Races**: Humans, dwarves, elves, halflings, half-elves, half-orc, orc, dragonborn, tiefling, tabaxi, golaith, kenku.
+- **Imports**: Grain, livestock, leather, ore, timber, and exotic goods from other lands
+- **Exports**: Ale, arms, cloth, fish, funisher, leather goods, pottery, refined metals, and all other sort of finished goods.
+- **Population**: 1,347,680
 
 #### Baldur's Gate
 
-- **Description**:
-- **Races**:
-- **Population**:
+- **Description**: Balduar's Gate, also called simply "the Gate", is one the largest metropolis and city-state areas on the East Coast.  
+- **Races**: Mostly human, some half-elves and halfings.
+- **Imports**: Stone
+- **Exports**: Dyes, fish, lamp iol, trade coinage
+- **Population**: 125,000
 
 #### Candlekeep
 
-- **Description**:
-- **Races**:
-- **Population**:
+- **Description**: Candlekeep is a towered library-fortress that floats on the East Coast overlooking the Great Sea.  The library is filled with books and scrolls of knowledge, considered the greatest collection of the writings in all of the New World.  It was the home of the greatest seer Alaundo who forsaw the coming of the blight.
+- **Races**:  Mixture
+- **Imports**:  Books
+- **Exports**: Knowledge, books, spellbooks  
+- **Population**: Unknown
 
 ## Dah Midwest
 
@@ -48,7 +56,7 @@
 
 - **Description**:  Slums human town filled by corruption
 - **Races**:  All known civilizated races.
-- **Population**: < 15,000
+- **Population**: < 80,000
 
 #### Frozen Donnar Mugdor (Houghton, Hancock, Calumet)
 
@@ -129,6 +137,18 @@
 - **Description**:  Melting pot of races and people from all walks of life.  All races are found here and the town is large, but wide spread out.
 - **Races**:  All known civilizated races.
 - **Population**: < 20,000
+
+#### Ylraphon
+
+- **Description**:
+- **Races**:  
+- **Population**:
+
+#### Kara-Tur
+
+- **Description**: Original home of the Kenku race of creatures.  During the Titan War the Kenku did not side with the Titans and were cursed never to have there own voice and to never fly again.  There city was destroyed and most stay away from the ruins, afraid the land to be cursed.
+- **Races**: Kenku
+- **Population**: unknown
 
 ## Central/Mountain Region
 
