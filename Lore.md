@@ -42,7 +42,7 @@ The people of the New World unable to flee back to the Old World were left to su
 - Silvanus (elf twin sister of Thymisis)
 - Thymisis (elf twin sister of Silvanus)
 
-In order to kill and lock the Titans from never returning the group of adventures had to give there souls to kill the Titans.  As apart of this banishment there souls were transfered to the plane that the original Titans came from, thus during them into the New Gods that are known in the lands today.  
+In order to kill and lock the Titans from never returning the group of adventures had to give there souls to kill the Titans.  As apart of this banishment there souls were transfered to the plane that the original Titans came from, thus turning them into the New Gods that are known in the lands today.  
 
 ## Dragons
 
