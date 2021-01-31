@@ -21,7 +21,9 @@ The New World became a challenge as the land was already inhabited by:
 - Elves
 - Many monsters 
 
-The elves on the West Coast started two major regions and communities, one named Dor - o taur and the other called Puig Gwilith.  On the East Coast the humans and various races settled into Echor and then moved down the East Coast settling in large towns like Waterdeep and Vad Nogaak Meth.  
+The elves on the West Coast started two major regions and communities, one named Dor - o taur and the other called Puig Gwilith.  The existing elves that were already populating the lands did not agree or get along with the new elves and were invited undergroup by the orignal dwarves of the lands, starting the Drow Elves race of elves.  
+
+On the East Coast the humans and various races settled into Echor and then moved down the East Coast settling in large towns like Waterdeep and Vad Nogaak Meth.  
 
 The races from the East Coast not happy with the land they had started to move westward toward the west coast and setteled in Detoixit, Dakota, and the Frozen Land.
 
