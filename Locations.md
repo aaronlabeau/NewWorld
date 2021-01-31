@@ -56,7 +56,7 @@
 
 #### Detoxit (Detroit)
 
-- **Description**:  Slums human town filled by corruption and run by the Zhentarim.  Several new crime lords now make there home in this city and there is a constant struggle for power.
+- **Description**:  Slums human town filled by corruption and the capital city of the Zhentarim after the fall of Zhentil Keep.  Several new crime lords now make there home in this city and there is a constant struggle for power.
 - **Races**:  All known civilizated races.
 - **Exports**:  lumber, ore, minerals, jewerly, gems, and leather
 - **Population**: < 80,000
