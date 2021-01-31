@@ -2,6 +2,17 @@
 
 ## Introduction
 
+The continent of New World was discovered by a group of light skinned humans and elves from the land of Eurtopia (Europe) over 500 years ago when they settled the East Coast in the Echor.  Word from the old land spread and a seperate group of mostly Elves and a small amount of dwarves, gnomes, halfings, and dark skinned humans settled the West Coast (Dor - o tuar and Puig Gwilith) from Eshiya (Asia).  
+
+The New World became a challenge as the land was already inhabited by:
+- Dragons
+- Giants
+- Tabaxi
+- Kenku
+- Lizardfolk
+- Orc
+- Yuan-ti Pureblood
+
 The date is 380 AT (After Titans).  Much records of time were lost and very little is known about the times of before the War of Titans.  The original titans went to world with the new gods, giants and dragons.  This war lasted over 100 years and most of the lands were greatly destroyed in the process, with over 98% of the worlds population lost in the war.
 
 ## Dragons
