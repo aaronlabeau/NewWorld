@@ -12,6 +12,8 @@ Born of dragons, as their name proclaims, the dragonborn walk proudly through a 
 
 It is rumored that the dragonborn first hatched from Dragon Tooth and Tyon Desert.  A palaced ruled by the Dragonborn is rumored to exist in the Tyon Desert, but none have made from there and lived to tell the tale.
 
+Today the half-dragons can be found rebuilding there city (Tymanther) and can be found in most of the larger cities of Waterdeep along with the lands of Echor, Vad Aroiga, Dór -o taur, and Puig Gwilith.
+
 ### Age Range
 
 Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 12. They live to be around 100 to 120 years old.
@@ -32,11 +34,11 @@ Nothing could be further from the truth, however, as dwarves are both thoughtful
 
 Four major groups of dwarves exist in the New World.
 
-  - **East Coast**:  The dwarves from the East Coast came to the lands with the Humans and Halfings during the pilgrimage from the old land.  Once arriving in Echor the dwarves spread to the north and south of the lands - some taking to the mountains of Calmarnock while others ventured into the Frozen Lands.  These dwarves are also called the "Hill Dwarves" in the Players Handbook.  
+  - **East Coast**:  The dwarves from the East Coast came to the lands with the humans, gnomes, halfings, tiefling during the pilgrimage from the old land.  Once arriving in Echor the dwarves spread to the north and south of the lands - some taking to the mountains of Calmarnock while others ventured into the Frozen Lands.  These dwarves are also called the "Hill Dwarves" in the Players Handbook.  
 
-  - **West Coast**:  The dwarves from the West Coast came to the lands with the Elves, Gnomes, and Tiefling from the lands of Asiah in the Old World.  These dwarves are also called the "Mountain Dwarves" in the Players Handbook.
+  - **West Coast**:  The dwarves from the West Coast came to the lands with the elves, gnomes, and tiefling from the lands of Eshiya in the Old World.  These dwarves are also called the "Mountain Dwarves" in the Players Handbook.
 
-  - **Frozen North** :  Dwarves from the East and West coasts eventually moved to the northern mountains areas and made there home in the mountains here building large fortress.  These dwarves are called the "Mark of Warding Dwarf" in D&D Beyond.  
+  - **Frozen North** :  Dwarves from the east and west coasts eventually moved to the northern mountains areas and made there home in the mountains here building large fortress.  These dwarves are called the "Mark of Warding Dwarf" in D&D Beyond.  
 
   - **Duergar**:  In cities deep in the Underdark live the duergar, or gray dwarves. The duergar fled from the lands of the New World when the dwarves and gnomes of from the Old World arrived.  Agreements over land drove them deep underground.  The times living in the dark and locked away from the sun turned them into vicious, stealthy slave traders raid the surface world for captives, then sell their prey to the other races of the Underdark. They have innate magical abilities to become invisible and to temporarily grow to giant size.
 
@@ -50,11 +52,11 @@ Dwarves mature at the same rate as humans, but they’re considered young until 
 
 The long-lived elves are children of the natural world, similar in many superficial ways to fey creatures, though with key differences. While fey are truly linked to the flora and fauna of their homes, existing as the nearly immortal voices and guardians of the wilderness, elves are instead mortals who are in tune with the natural world around them. Elves seek to live in balance with the wild and understand it better than most other mortals. Some of this understanding is mystical, but an equal part comes from the elves’ long lifespans, which in turn gives them long-ranging outlooks. Elves can expect to remain active in the same locale for centuries. By necessity, they must learn to maintain sustainable lifestyles, and this is most easily done when they work with nature, rather than attempting to bend it to their will. However, their links to nature are not entirely driven by pragmatism. Elves’ bodies slowly change over time, taking on a physical representation of their mental and spiritual states, and those who dwell in a region for a long period of time find themselves physically adapting to match their surroundings, most noticeably taking on coloration that reflects the local environment.
 
-Elves value their privacy and traditions, and while they are often slow to make friends at both the personal and national levels, once an outsider is accepted as a comrade, the resulting alliances can last for generations. Elves take great joy in forging alliances with races that share or exceed their long lifetimes, and often work to befriend dragons, outsiders, and fey. Those elves who spend their lives among the short-lived races, on the other hand, often develop a skewed perception of mortality and become morose, the result of watching wave after wave of companions age and die before their eyes.
-
 ### Description
 
-TODO - add all the elvish stuff here
+Elves value their privacy and traditions, and while they are often slow to make friends at both the personal and national levels, once an outsider is accepted as a comrade, the resulting alliances can last for generations. Elves take great joy in forging alliances with races that share or exceed their long lifetimes, and often work to befriend dragons, outsiders, and fey. Those elves who spend their lives among the short-lived races, on the other hand, often develop a skewed perception of mortality and become morose, the result of watching wave after wave of companions age and die before their eyes.
+
+
 ### Age Range
 
 Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.
@@ -70,7 +72,9 @@ A constant hum of busy activity pervades the warrens and neighborhoods where gno
 
  Curious and impulsive, gnomes might take up adventuring as a way to see the world or for the love of exploring. As lovers of gems and other fine items, some gnomes take to adventuring as a quick, if dangerous, path to wealth. Regardless of what spurs them to adventure, gnomes who adopt this way of life eke as much enjoyment out of it as they do out of any other activity they undertake, sometimes to the great annoyance of their adventuring companions.
 
-The gnomes came to the new world with both the Humans settling on the East Coast and on the West Coast via the Elves and Dwarves.  Always the explorer they explored with the other races spreading across the vast New World.  
+The gnomes came to the new world with both the humans settling on the East Coast and on the West Coast via the elves and dwarves.  Always the explorer they explored with the other races spreading across the vast New World.  
+
+The gnomes have a very close relationship with the dwarves and there isn't a single dwarven settlement that doesn't have some group of gnomes working with them, taking the materials that they mine and making great items with them.   The dwarves look up to them for there great tinkering abilities and treat them as great allies.
 
 ### Age Range
 
@@ -90,6 +94,7 @@ Sometimes this mutual infatuation leads to romantic relationships. Though usuall
 Half-elves understand loneliness, and know that character is often less a product of race than of life experience. As such, they are often open to friendships and alliances with other races, and less likely than most to rely on first impressions when forming opinions of new acquaintances. While many races join together to produce mixed offspring of notable power, such as half-orcs, dragonborn, and tiefling, half-elves seem to have a unique position in the eyes of their progenitors and the rest of the world. Those humans who admire elvenkind see half-elves as a living link or bridge between the two races. But this attitude often foists unfair expectations and elevated standards upon half-elves, and quickly turns to derision when they do not live up to the grand destinies that others set for them. Additionally, those half-elves raised by or in the company of elves often have the human half of their parentage dubbed a mere obstacle, something to be overcome with proper immersion and schooling in the elven ways, and even the most well-meaning elven mentors often push their half-elven charges to reject a full half of themselves in order to “better” themselves.
 
 Half-Elves can be found in every major city and came over from the old lands with both the elves, dwarves, and humans on the West Coast and with the humans, dwarves, and halfings on the East Coast.
+
 ### Age Range
 
 Half-elves mature at the same rate humans do and reach adulthood around the age of 20. They live much longer than humans, however, often exceeding 180 years.
@@ -121,6 +126,7 @@ At the highest mountain peaks — far above the slopes where trees grow and wher
 The Goliath are small in numbers and prefer to stay in tribes or bands with the rules of honor guiding them.  The Goliath are very driven competitors and have the compulsion to keep score, counting there deeds and kills, tallying their accomplishments to compare to others.  Goliaths love to win, but will always look at defeat as a lesson to point out how to improve.
 
 Around 700 AT the Goliaths starting to roam south when there lands stopped growing crops and animals became scarce.  
+
 ### Age Range
 
 Goliaths have lifespans that last a big longer than human, living to be between 100 and 120 years. They enter adulthood in their early teens and usually live just over a century.
