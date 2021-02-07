@@ -20,6 +20,9 @@ Today the half-dragons can be found rebuilding there city (Tymanther) and can be
 
 Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 12. They live to be around 100 to 120 years old.
 
+#### D&D Beyond Link
+[Dragonborn Race](https://www.dndbeyond.com/races/dragonborn)
+
 ## Dwarf
 
 ![Dwarf Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/254/420/618/636271781394265550.png)
@@ -48,6 +51,9 @@ Four major groups of dwarves exist in the New World.
 
 Dwarves mature at the same rate as humans, but they’re considered young until they reach the age of 50. On average, they live about 350 years.
 
+#### D&D Beyond Link
+[Dwarf Race](https://www.dndbeyond.com/races/dwarf)
+
 ## Elf
 
 ![Elf Image](https://www.5esrd.com/wp-content/uploads/2016/12/DeanSpencer-elfrogue-reduced.png)
@@ -72,6 +78,9 @@ Three major groups of elves exist in the New World:
 
 Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.
 
+#### D&D Beyond Link
+[Elf Race](https://www.dndbeyond.com/races/elf)
+
 ## Gnome
 ![Gnome Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/334/420/618/636272671553055253.png) 
 
@@ -90,6 +99,9 @@ The gnomes have a very close relationship with the dwarves and there isn't a sin
 ### Age Range
 
 Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years.
+
+#### D&D Beyond Link
+[Gnome Race](https://www.dndbeyond.com/races/gnome)
 
 ## Half-Elf
 ![Half-Elf Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/481/420/618/636274618102950794.png)
@@ -110,6 +122,9 @@ Half-Elves can be found in every major city and came over from the old lands wit
 
 Half-elves mature at the same rate humans do and reach adulthood around the age of 20. They live much longer than humans, however, often exceeding 180 years.
 
+#### D&D Beyond Link
+[Half-Elf Race](https://www.dndbeyond.com/races/half-elf)
+
 ## Halfing
 ![Halfing Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/256/420/618/636271789409776659.png)
 ### Overview
@@ -125,6 +140,9 @@ Halflings came over with both the elves and dwarves on the West Coast and the hu
 ### Age Range
 
 A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century.
+
+#### D&D Beyond Link
+[Halfling Race](https://www.dndbeyond.com/races/halfling)
 
 ## Half-Giant (Goliath)
 ![Goliath Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/7/620/420/618/636286749289682134.png)
@@ -142,6 +160,9 @@ Around 700 AT the Goliaths starting to roam south when there lands stopped growi
 
 Goliaths have lifespans that last a big longer than human, living to be between 100 and 120 years. They enter adulthood in their early teens and usually live just over a century.
 
+#### D&D Beyond Link
+[Goliath Race](https://www.dndbeyond.com/races/goliath)
+
 ## Half-Orc
 ![Half-Orc Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/466/420/618/636274570630462055.png)
 ### Overview
@@ -158,6 +179,9 @@ Half-Orc can found all around the lands in most major cities and while large are
 
 Half-orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster due to cancer forming in there genetics and rarely live longer than 70 years.
 
+#### D&D Beyond Link
+[Half-Orc Race](https://www.dndbeyond.com/races/half-orc)
+
 ## Human
 ![Human Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/258/420/618/636271801914013762.png)
 ### Overview
@@ -173,6 +197,9 @@ The humans primarily came over to the new world and settled on the East Coast wi
 ### Age Range
 
 Humans reach adulthood in their late teens and live just over a century (around 100 to 110 years old).
+
+#### D&D Beyond Link
+[Human Race](https://www.dndbeyond.com/races/human)
 
 ## Kenku
 ![Kenku Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/9/413/420/618/636327479317339912.png)
@@ -199,6 +226,9 @@ Kenku have shorter lifespans than humans. They reach maturity at about 12 years 
 
 To play this class you need to purchase or must have a license to use Volo's Guide to Monsters as this race is not included in the Players Handbook.
 
+#### D&D Beyond Link
+[Kenku Race](https://www.dndbeyond.com/races/kenku)
+
 ## Orc 
 ![Orc Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/9170/143/420/618/637199799072448482.png)
 ### Overview 
@@ -219,6 +249,9 @@ Orcs mature a little faster than humans, reaching adulthood around age 14. They 
 ### Note  
 
 You use the Orc of Exandra stats and description to place this race in the new world in D&D Beyond.  Because of this you need to purchase or must have a license to use Explorer's Guide to Wildemount as this version of the race is not included in the Players Handbook.
+
+#### D&D Beyond Link
+[Orc of Exandria Race](https://www.dndbeyond.com/races/orc-of-exandria)
 
 ## Tabaxi
 ![Tabaxi Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/9/419/420/618/636327479879859745.png)
@@ -243,6 +276,9 @@ Tabaxi have lifespans equivalent to humans and while ancient stories claim they 
 
 To play this class you need to purchase or must have a license to use Volo's Guide to Monsters as this race is not included in the Players Handbook.
 
+#### D&D Beyond Link
+[Tabaxi Race](https://www.dndbeyond.com/races/tabaxi)
+
 ## Tiefling (Half-Fiend)
 ![Tiefling Image](https://www.5esrd.com/wp-content/uploads/2016/12/DeanSpencer-tieflingwizard-reduced.png)
 ### Overview
@@ -256,3 +292,6 @@ Tieflings in the New World rarely create their own settlements and holdings. Ins
 ### Age Range
 
 Due to there human blood, Tieflings mature at the same rate as humans but live to be over a century old, ranging from (140 to 160 years old) 
+
+#### D&D Beyond Link
+[Tiefling Race](https://www.dndbeyond.com/races/tiefling)
