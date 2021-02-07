@@ -26,8 +26,15 @@ A dwarf’s name is granted by a clan elder, in accordance with tradition. Every
 
 ## Elf
 
+Elves are a magical people of otherworldly grace, living in the world but not entirely part of it. The original elves from the old world looked for land to claim as there own in order to rebuild from something that effected there original home.  They were effected by an evil that make them lust and greed for material items.  
+
+When ariving to the new world this greed forced them into war with the elves and dwarves that currently occupied the lands.  This forced the original elves and dwarves of the land underground and the elves from the Old World took over the lands in the West.  The dragons from Dragon Tooth did not take well to this, raging war on them.  Eventually sensing the curse a great Gold Dragon cured them to resolve there lust and greed.
+
+They live in places of ethereal beauty, in the midst of ancient forests or in silvery spires glittering with faerie light, where soft music drifts through the air and gentle fragrances waft on the breeze. Elves love nature and magic, art and artistry, music and poetry, and the good things of the world.
+
 - **Description**:
-- **Age Range**:
+
+- **Age Range**:  Elves can live well over 700 years, giving them a broad perspective on events that might trouble the shorter-lived races more deeply. 
 
 ## Gnome
 
