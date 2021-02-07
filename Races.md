@@ -1,5 +1,7 @@
 # Races
 
+The following races can be used in this campaign setting and have lore provided to be included in players backstory to in order to make the characters more integrated into the world.
+
 ## Dragonborn (Half-Dragon)
 
 ![Dragonborn Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/340/420/618/636272677995471928.png)
@@ -20,7 +22,7 @@ Young dragonborn grow quickly. They walk hours after hatching, attain the size a
 
 ## Dwarf
 
-![Dwarf Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/254/420/618/636271781394265550.png)
+![Dwarf Image](http://d20pfsrd.opengamingnetwork.com/wp-content/uploads/sites/12/2017/01/Dwarf1-fat-goblin-games-smaller.png)
 
 ### Overview
 
@@ -48,7 +50,7 @@ Dwarves mature at the same rate as humans, but they’re considered young until 
 
 ## Elf
 
-![Elf Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/7/639/420/618/636287075350739045.png)
+![Elf Image](https://www.5esrd.com/wp-content/uploads/2016/12/DeanSpencer-elfrogue-reduced.png)
 
 The long-lived elves are children of the natural world, similar in many superficial ways to fey creatures, though with key differences. While fey are truly linked to the flora and fauna of their homes, existing as the nearly immortal voices and guardians of the wilderness, elves are instead mortals who are in tune with the natural world around them. Elves seek to live in balance with the wild and understand it better than most other mortals. Some of this understanding is mystical, but an equal part comes from the elves’ long lifespans, which in turn gives them long-ranging outlooks. Elves can expect to remain active in the same locale for centuries. By necessity, they must learn to maintain sustainable lifestyles, and this is most easily done when they work with nature, rather than attempting to bend it to their will. However, their links to nature are not entirely driven by pragmatism. Elves’ bodies slowly change over time, taking on a physical representation of their mental and spiritual states, and those who dwell in a region for a long period of time find themselves physically adapting to match their surroundings, most noticeably taking on coloration that reflects the local environment.
 
@@ -56,6 +58,15 @@ The long-lived elves are children of the natural world, similar in many superfic
 
 Elves value their privacy and traditions, and while they are often slow to make friends at both the personal and national levels, once an outsider is accepted as a comrade, the resulting alliances can last for generations. Elves take great joy in forging alliances with races that share or exceed their long lifetimes, and often work to befriend dragons, outsiders, and fey. Those elves who spend their lives among the short-lived races, on the other hand, often develop a skewed perception of mortality and become morose, the result of watching wave after wave of companions age and die before their eyes.
 
+The elves mostly came to the lands from Eshiya in the old world when they heard word of a new continent being discovered by the humans.  Quickly the sailed out and discovered  Dór -o taur and Puig Gwilith.  When arriving in Dór -o taur - the found an existing race of elves living in this land.  At first the elves got a long and shared the lands, but within years the elves from the old world started to "lust" and show forms of greed where they wanted to own the land vs share it.  This started a battle between the old world elves and the new world elves.  Eventually the old world elves drove the new world elves from the land and underground, which they eventually became the Drow.  The tabaxi people knowing something was wrong figured out the change in attitude was caused from a local fruit that they started to consume that was poison to the elves.  The tabaxi working with the humans created a cure for this and thus saved the elves from themselves.   
+
+Three major groups of elves exist in the New World:
+
+  - **High Elves**: The high elves are driven by tradition and respect of the past.  With centuries to devote to there studies, the elves are masters of there crafts.  The high elves make their home in the lands of **Dór -o taur**.  Many high elves have studied some form of the arcane arts and still believe that magic and the spirits of the world are still valid in a land where the humans are moving to strike the practice of the arcane from there schools and cities.  The high elves instead embrace the arcane and have large libraries dedicated to the study of it.  Many high elves are bard, cleric, druids, monk, paladins, wizards, sorcerers, rangers, and warlocks.  
+
+  - **Wood Elves**: The wood elves are driven by an appreciation for the earth and the lands.  The wood elves live off the ground in great cities in the large trees of **Puig Gwilith**.  Wood Elves will protect the earth at all costs which sometimes can come across as more violent than there high elf cousins.  The wood elves are skilled animal handlers and have a great relationship with other races including Tabaxi, Kenku, and humans that also love the land.  Because the wood elves believe in Gaia and the spirit of the land and animals, they tend to focus toward druids, rangers, bards, cleric, and monk.
+
+  - **Drow**:  In cities deep in the Underdark live the drow, or dark elves. The drow fled from the lands of the New World when the elves and dwarves of from the Old World arrived.  Agreements over ownership of land and a disease of lust and greed from the high elves drove them deep underground after loosing several battles.  Looking for power and the will to survive the cruel underworld, the dark elves started to follow the ways of Lolth, one of the old gods.  The times living in the dark and locked away from the sun turned them into vicious, stealthy assassins that go to the surface world to attack and make the surface dwellers whom drove them from there original home.  Many drow are fighters, druid, monk, ranger, rogue, warlock, wizard, and sorcerers.  They have innate magical abilities to cast some spells like darkness, dancing lights, and faerie fire. 
 
 ### Age Range
 
@@ -164,9 +175,29 @@ The humans primarily came over to the new world and settled on the East Coast wi
 Humans reach adulthood in their late teens and live just over a century (around 100 to 110 years old).
 
 ## Kenku
+![Kenku Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/9/413/420/618/636327479317339912.png)
 
-- **Description**:
-- **Age Range**:
+### Overview
+
+Once great users of the arcane arts, the Kenku are haunted by an ancient curse that robbed them of their wings and voice.  The once noble kenku now wander the new world as vagabonds and burglars who live at the edge of society. Kenku suffer from a sinister reputation that is not wholly unearned, but they can prove to be valuable allies.
+
+### Description
+
+Before the times of the Titans the Kenku were peace keepers and were native to the lands of the new world with there home of Kara-Tur being a grand city in the trees and grass that was native to this land.
+
+The Kenku discovered the plot of the titans to rule over all the lands and people and banded the various races of people and even got to Dragons and Giants to put aside there differences in order to drive the old gods from the lands.  During the final battle one of the old gods laid a curse on all future born Kenku in the land that they would not be able to speak or fly.
+
+Kenku born since the fall of the titans have struggled and many still look for a way to break the curse.  
+
+The Kenku often war with the Lizardfolk and Yuati to the west of Kara-Tur.
+
+### Age Range
+
+Kenku have shorter lifespans than humans. They reach maturity at about 12 years old and can live to 60.
+
+### Note  
+
+To play this class you need to purchase or must have a license to use Volo's Guide to Monsters as this race is not included in the Players Handbook.
 
 ## Orc 
 ![Orc Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/9170/143/420/618/637199799072448482.png)
@@ -181,16 +212,36 @@ Since the arrival of the various races on the East Coast and West Coast the orc 
 
 This came into light when the old gods (Titans) came to the new world and threated all the races.  The Orc banded together with the other races to drive them from the lands and thus earned respect and are welcome in most cities across the lands.   To this day the Orc still worship the great spirit. 
 
-You use the Orc of Exandra stats and description to place this race in the new world in D&D Beyond.
-
 ### Age Range
 
 Orcs mature a little faster than humans, reaching adulthood around age 14. They live to be about 75.
 
-## Tabaxi
+### Note  
 
-- **Description**:
-- **Age Range**:
+You use the Orc of Exandra stats and description to place this race in the new world in D&D Beyond.  Because of this you need to purchase or must have a license to use Explorer's Guide to Wildemount as this version of the race is not included in the Players Handbook.
+
+## Tabaxi
+![Tabaxi Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/9/419/420/618/636327479879859745.png)
+
+### Overview
+
+Hailing from a strange and distant land to the south of the Tyon desert, the wandering tabaxi are catlike humanoids driven by curiosity to collect interesting artifacts, gather tales and stories, and lay eyes on all the world’s wonders. Ultimate nomads, the inquisitive tabaxi rarely stay in one place for long. Their innate nature pushes them to leave no secrets uncovered, no treasures or legends lost.
+
+### Description
+
+The tabaxi are native to the new world and legions state they traveled from the dangerous jungles of the south where large lizard like creatures called Dinosaurs roam the lands.  Most tabaxi group together and remain in there distant jungle lands.  These tabaxi hunt for food, craft goods, and largely keep to themselves.  
+
+Not all tabaxi are satisfied by this lifestyle and long for adventure.  Eventually this drove them north where they settled and created the port city of Chataire, and the west coastal city of Laug nen beautui. Since they they have spread throughout the cities of the new lands can many can be found in the streets of Echor, Waterdeep along with wondering the lands of Vad Aroiga, Frozen Lands, Puig Gwilith, and Dór -o taur.
+
+The tabaxi made friends quickly with the elves of the Dór -o taur and stories passed down from generations ago state they helped the elves break the "lust" that plagued them when they settled into Dór -o taur.  Because of this, the elves treat the Tabaxi as one of there own.  The elves of Puig Gwilith got along with the tabaxi so much that they traveled with them south to eventually discover and settle in the city of Laug nen beautui. 
+
+### Age Range
+
+Tabaxi have lifespans equivalent to humans and while ancient stories claim they have 9 lives - no proof has been provided to these claims.
+
+### Note  
+
+To play this class you need to purchase or must have a license to use Volo's Guide to Monsters as this race is not included in the Players Handbook.
 
 ## Tiefling (Half-Fiend)
 ![Tiefling Image](https://www.5esrd.com/wp-content/uploads/2016/12/DeanSpencer-tieflingwizard-reduced.png)

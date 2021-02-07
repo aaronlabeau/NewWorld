@@ -7,20 +7,20 @@
 #### Grand Echor Shore (New York, New York)
 
 - **Description**:  Grand Echor Shore is the sprawling city overlooking the Grand Island was also referred to as Calimport before the Titan War.  The metropolis is a huge place, measuring almost six miles from east to west and three miles from the coastline to the northern border.  
-- **Races**:  Human, halflings, half-orc, half-elves, gnomes, dragonborn, tabaxi, kenku, tiefling (less than 1%), dwarves (less than 1%)
+- **Races**:  Human, halflings, half-orc, half-elves, gnomes, dragonborn, tabaxi, kenku, tiefling (less than 2%), dwarves (less than 5%)
 - **Imports**: Grains, fruit, vegetables, wine, ore, gems, lumber, fish
 - **Exports**:  magical items, exotic spices, silk, horses
 - **Population**: over 2,000,000
 
 #### Grand Island (Manhattan)
 
-- **Description**:  Island city is home to the rulers and weathy shop owners of Grand Echor Shore.  Access to the Island is limited and a large wall keeps the Island protected.
-- **Races**:  the rich
+- **Description**:  Island city is home to the rulers and wealthy shop owners of Grand Echor Shore.  Access to the Island is limited and a large wall keeps the Island protected.
+- **Races**:  Anyone with a lot of money 
 - **Population**:  Unknown (rumored to be between 500 and 1,000)
 
 #### Neverwinter
 
-- **Description**: Neverwinter, also known as the City of the Skilled Hand and the Jewel of t he North, is a multi-racial city-state sitting on the northeastern coast of the New World.  Neverwinter is reguarded as the most cosmopolitan and the most civilized city in all of the New World. 
+- **Description**: Neverwinter, also known as the City of the Skilled Hand and the Jewel of t he North, is a multi-racial city-state sitting on the northeastern coast of the New World.  Neverwinter is regarded as the most cosmopolitan and the most civilized city in all of the New World. 
 - **Races**: Half-elves, humans, dwarves, dragonborn, tiefling, orcs, half-orcs 
 - **Imports**: Crafters, mercenaries
 - **Exports**: Crafts, fish, logging, magical innovations
@@ -31,12 +31,12 @@
 - **Description**: Waterdeep, also known as the City of Splendors or the Crown of the North, is the most important and influential city in the North.  The road to Waterdeep is well paved and well patrolled.  The city is a hub of trading from the mineral-rich lands to the north west, the merchant kingdoms of Vad Nogaak Meth to the south, and the kingdoms of the Old World to the east.  
 - **Races**: Humans, dwarves, elves, halflings, half-elves, half-orc, orc, dragonborn, tiefling, tabaxi, golaith, kenku.
 - **Imports**: Grain, livestock, leather, ore, timber, and exotic goods from other lands
-- **Exports**: Ale, arms, cloth, fish, funisher, leather goods, pottery, refined metals, and all other sort of finished goods.
+- **Exports**: Ale, arms, cloth, fish, furnisher, leather goods, pottery, refined metals, and all other sort of finished goods.
 - **Population**: 1,347,680
 
 #### Baldur's Gate
 
-- **Description**: Balduar's Gate, also called simply "the Gate", is one the largest metropolis and city-state areas on the East Coast.  
+- **Description**: Baldur's Gate, also called simply "the Gate", is one the largest metropolis and city-state areas on the East Coast.  
 - **Races**: Mostly human, some half-elves and halfings.
 - **Imports**: Stone
 - **Exports**: Dyes, fish, lamp iol, trade coinage
@@ -200,9 +200,10 @@
 
 #### Tymanther
 
-- **Description**: millitaristic, dragonborn-ruled state.  Was mostly destroyed durning the Titan War and is now a ruin city and state.
+- **Description**: militaristic, dragonborn-ruled state.  Was mostly destroyed durning the Titan War and is slowly being rebuilt. 
+
 - **Races**:  Dragonborn
-- **Population**: unkown
+- **Population**: unknown
 
 ## West Coast
 
@@ -210,13 +211,13 @@
 
 #### Dór -o sídh (Seattle)
 
-- **Description**:  Wood Elves sacreted home.  The Elves own the entire state and parts of Oregon.  It's cut off from outsiders, most will not enter due to rumored magic that kills outsiders or beasts inside the land.
+- **Description**:  High Elves sacred home.  The Elves own the entire state and parts of Oregon.  Most will not enter due to the elves still using and training people on the arcane arts and documenting the ways of the old gods/new gods.
 - **Races**:  Elves, Half-Elves, Human, Halfings, Tabaxi, Kenku
 - **Population**:  < 15,000
 
 #### Luskan
 
-- **Description**: also known as the City of Sails, is a port city on the west coast of the New World.  Luskan, despite the presence of Dór -o sídh is considered by the humans to be civilization's farthest reach.  Also once a bustling city, in the days prior to the war of titans, the city would suffer greatly at the hands of Arklem Greeth.  The resulting disaster would allow the plague to nearly decimate the city, with it having only a fraction of its former populace.
+- **Description**: also known as the City of Sails, is a port city on the west coast of the New World.  Luskan, despite the presence of Dór -o sídh is considered by the humans to be civilization's farthest reach.  Also once a bustling city, in the days prior to the war of titans, the city would suffer greatly at the hands of Arklem Greeth.  The resulting disaster would allow the plague to nearly decimate the city, with it having only a fraction of its former populace.  Luskan is the only human city left that has a school dedicated to learning the Arcane arts.
 - **Races**: Mostly humans, small amount of elves
 - **Population**: 4,000
 
@@ -224,7 +225,7 @@
 
 #### Milui Núr Tul (Bay Area - San Francisco)
 
-- **Description**:  Elves that have left the promise land and take home here.  Other races do live here but not as common (10% human, 10% halfing, 30% half-elf 50% Elf)
+- **Description**:  Wood Elves that have left the promise land and take home here.  Other races do live here but not as common (5% human, 5% halfing, 10% tabaxi, 30% half-elf 50% Elf)
 - **Races**:  Human, halfing, half-elf, tabaxi
 - **Population**: < 20,000
 

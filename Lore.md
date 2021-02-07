@@ -2,11 +2,11 @@
 
 ## Introduction
 
-### Orgins of the New World
+### Origins of the New World
 
-The contintent of New World was originally ruled by the Dragons and Giants.  These creatures began to conflict with each other which eventually broke out into the first war, which some call the Great War.  During this time many artifacts from both races were lost and the number of Giants and Dragons were greatly reduced. 
+The continent of New World was originally ruled by the Dragons and Giants.  These creatures began to conflict with each other which eventually broke out into the first war, which some call the Great War.  During this time many artifacts from both races were lost and the number of Giants and Dragons were greatly reduced. 
 
-The continent of New World was discovered by a group of light skinned humans and elves from the land of Eurtopia (Europe) over 500 years ago (BT - Before Titans War) when they settled the East Coast in the Echor.  Word from the old land spread and a seperate group of mostly Elves and a small amount of dwarves, gnomes, halfings, and dark skinned humans settled the West Coast (Dor - o tuar and Puig Gwilith) from Eshiya (Asia).  
+The continent of New World was discovered by a group of light skinned humans and elves from the land of Eurtopia (Europe) over 500 years ago (BT - Before Titans War) when they settled the East Coast in the Echor.  Word from the old land spread and a separate group of mostly Elves and a small amount of dwarves, gnomes, halfings, and dark skinned humans settled the West Coast (Dor - o tuar and Puig Gwilith) from Eshiya (Asia).  
 
 The New World became a challenge as the land was already inhabited by:
 
@@ -21,17 +21,17 @@ The New World became a challenge as the land was already inhabited by:
 - Elves
 - Many monsters 
 
-The elves on the West Coast started two major regions and communities, one named Dor - o taur and the other called Puig Gwilith.  The existing elves that were already populating the lands did not agree or get along with the new elves and were invited underground by the orignal dwarves of the lands, starting the Drow race of elves.  
+The elves on the West Coast started two major regions and communities, one named Dor - o taur and the other called Puig Gwilith.  The native elves to the lands did not agree with the ownership of land and when battle broke out between them, they were driven underground along with the original dwarves of the lands, starting the Drow race of elves and the Duergar race of dwarves.  
 
 On the East Coast the humans and various races settled into Echor and then moved down the East Coast settling in large towns like Waterdeep and Vad Nogaak Meth.  
 
-The races from the East Coast not happy with the land they had started to move westward toward the west coast and setteled in Detoixit, Dakota, and the Frozen Land.
+The races from the East Coast not happy with the land they had started to move westward toward the west coast and settled in Detoixit, Dakota, and the Frozen Land.
 
 ### The New Gods
 
-While most of the history was lost during the Titan Wars, what is understood is that a group of humans, dwarves, elves discovered some acient artifacts that allowed the old gods (Titans) to walk the lands.  The titans started to gain the flaws of the people that walked the lands like greed and this eventually started the Titan wars.  This war ravaged the land and most of the cities were greatly destroyed.  The cloud giants seeing this happening and fearing all history would be lost fled to Eshiya and created the "Rift", a magical barrier in the middle of the ocean that restricts anyone from entering the land of the Old World.
+While most of the history was lost during the Titan Wars, what is understood is that a group of humans, dwarves, elves discovered some ancient artifacts that allowed the old gods (Titans) to walk the lands.  The titans started to gain the flaws of the people that walked the lands like greed and this eventually started the Titan wars.  This war ravaged the land and most of the cities were greatly destroyed.  The cloud giants seeing this happening and fearing all history would be lost fled to Eshiya and created the "Rift", a magical barrier in the middle of the ocean that restricts anyone from entering the land of the Old World.
 
-The people of the New World unable to flee back to the Old World were left to suffer and many lives were lost.  A band of adventures listed below found the courage to make a deal with the Dragons and Giants to use acient artifacts to destory the Titans, thus returning the lands to peace.  The group of adventures were:
+The people of the New World unable to flee back to the Old World were left to suffer and many lives were lost.  A band of adventures listed below found the courage to make a deal with the Dragons and Giants to use ancient artifacts to destroy the Titans, thus returning the lands to peace.  The group of adventures were:
 
 - Tharnaus (human paladin leader)
 - Tor (dwarf best friend of Tharnaus)
@@ -42,7 +42,7 @@ The people of the New World unable to flee back to the Old World were left to su
 - Silvanus (elf twin sister of Thymisis)
 - Thymisis (elf twin sister of Silvanus)
 
-In order to kill and lock the Titans from never returning the group of adventures had to give there souls to kill the Titans.  As apart of this banishment there souls were transfered to the plane that the original Titans came from, thus turning them into the New Gods that are known in the lands today.  
+In order to kill and lock the Titans from never returning the group of adventures had to give there souls to kill the Titans.  As apart of this banishment there souls were transferred to the plane that the original Titans came from, thus turning them into the New Gods that are known in the lands today.  
 
 ## Dragons
 
@@ -63,7 +63,7 @@ The Frost Giants of the lands fled far north to the Frozen Lands and are rarely 
 
 ### Hill Giants
 
-The Hill Giants roam the Bison Plains and lands of Kez Kor Googa.  Before the Titan Wars, the Hill Giants were as intelligent as the Cloud Giants with the strength of the Fire Giants.  The Hill Giants started the treaty between the humans and the Giants in order to stop the Titans.  The friendship grew between the two and eventually a race of beings called the Golaiths was started when humans started to mate with the Hill Giants.  The titans fearing this relationship would destory them cursed all Hill Giants, taking there size, strength, and intelligence from them.  Since the fall of the titans and the end of the Titan War, many of them have banded with Hobgoblins, Goblins, and Bug Bears to take the lands from the honorable Orc and Golaith tribes.
+The Hill Giants roam the Bison Plains and lands of Kez Kor Googa.  Before the Titan Wars, the Hill Giants were as intelligent as the Cloud Giants with the strength of the Fire Giants.  The Hill Giants started the treaty between the humans and the Giants in order to stop the Titans.  The friendship grew between the two and eventually a race of beings called the Golaiths was started when humans started to mate with the Hill Giants.  The titans fearing this relationship would destroy them cursed all Hill Giants, taking there size, strength, and intelligence from them.  Since the fall of the titans and the end of the Titan War, many of them have banded with Hobgoblins, Goblins, and Bug Bears to take the lands from the honorable Orc and Goliath tribes.
 
 ### Fire Giants
 
@@ -75,7 +75,7 @@ The Cloud Giants fled the lands during the Titan war and created the Rift, a mag
 
 ### Storm Giants
 
-Much is not known about them other than they are the most powerful of the giants and in accient times had a palace called Atlantis that scholars state is located somewhere in the waters south of Vad Aroiga.
+Much is not known about them other than they are the most powerful of the giants and in ancient times had a palace called Atlantis that scholars state is located somewhere in the waters south of Vad Aroiga.
 
 ## Great Silence
 
