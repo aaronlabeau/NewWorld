@@ -4,14 +4,14 @@
 
 ### Echor (New England)
 
-#### Grand Echor Shore (New York, New York)
+#### Grand Echor Shore (New York, New York) - The City of Eternity
 
-- **Description**:  Grand Echor Shore is the sprawling city overlooking the Grand Island was also referred to as Calimport before the Titan War.  The metropolis is a huge place, measuring almost six miles from east to west and three miles from the coastline to the northern border.  
+- **Description**:  Grand Echor Shore is the sprawling city overlooking the Grand Island was also referred to as the City of Eternity before the Titan War.  The metropolis is a huge place, measuring almost six miles from east to west and three miles from the coastline to the northern border.  
 - **Races**:  Human, halflings, half-orc, half-elves, gnomes, dragonborn, tabaxi, kenku, tiefling (less than 2%), dwarves (less than 5%)
 - **Imports**: Grains, fruit, vegetables, wine, ore, gems, lumber, fish
 - **Exports**:  magical items, exotic spices, silk, horses
 - **Population**: over 2,000,000
-
+- 
 #### Grand Island (Manhattan)
 
 - **Description**:  Island city is home to the rulers and wealthy shop owners of Grand Echor Shore.  Access to the Island is limited and a large wall keeps the Island protected.
@@ -60,7 +60,7 @@
 - **Races**:  All known civilizated races.
 - **Exports**:  lumber, ore, minerals, jewerly, gems, and leather
 - **Population**: < 80,000
-
+- Image:  [Dexoit Image](images/Detoxit.jpg)
 #### Frozen Donnar Mugdor (Houghton, Hancock, Calumet)
 
 - **Description**:  Dwarves empire owns it.  Underground fortress
