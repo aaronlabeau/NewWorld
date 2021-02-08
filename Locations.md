@@ -61,6 +61,7 @@
 - **Exports**:  lumber, ore, minerals, jewerly, gems, and leather
 - **Population**: < 80,000
 - Image:  [Dexoit Image](images/Detoxit.jpg)
+
 #### Frozen Donnar Mugdor (Houghton, Hancock, Calumet)
 
 - **Description**:  Dwarves empire owns it.  Underground fortress
