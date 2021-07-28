@@ -6,7 +6,7 @@ This is my personal material that I use to run my various D&D Campaign.  I have 
 
 In summary if you steal the Players Handbook, DM Guide, or other materials from sites  you are a jerk and don't deserve to use these materials.  
 
-I am a big supporter of D&D Beyond and Roll20 and believe they are the most connivent ways to run the game.  If you don't like books, the digital form from D&D Beyond or Roll 20 should be purchased instead.  
+I am a big supporter of D&D Beyond and Roll20 and believe they are the most convenient ways to run the game.  If you don't like books, the digital form from D&D Beyond or Roll 20 should be purchased instead.  
 
 If you are using the SRD rules which are open and free - you should NOT be using any races that I call out in the Races file as those need separate materials.  The required books to play the game are cheaper than 3 XBox or PS5 games so please do the right thing and buy the books.  Ok rant over - now enjoy the materials provided.
 
